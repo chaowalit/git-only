@@ -1,1 +1,3 @@
-package com.nong
+class Main {
+	
+}
