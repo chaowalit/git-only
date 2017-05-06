@@ -3,5 +3,6 @@ class Main {
 		System.out.println("hhh");
 		System.out.println("hhh11");
 		String str = "";
+		System.out.println("hxhh333");
 	}
 }
