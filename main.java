@@ -10,6 +10,9 @@ class Main {
 			System.out.println("test2");
 			System.out.println("test3");
 		}
+
+		System.out.println("hello Annie");
+
 		System.out.println("bank2");
 		String str = "";
 		System.out.println("hxhh333");
