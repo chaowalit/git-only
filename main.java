@@ -12,6 +12,9 @@ class Main {
 		}
 
 		System.out.println("hello Annie");
+		System.out.println("hello Annie1");
+		System.out.println("hello Annie2");
+		System.out.println("hello Annie3");
 
 		System.out.println("bank2");
 		String str = "";
